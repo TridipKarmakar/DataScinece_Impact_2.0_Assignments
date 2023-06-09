@@ -7,8 +7,11 @@ overview of the repository structure and instructions for running the code.
 
 The repository is structured as follows:
 
-- `assignment1`: Contains the code and answers for Assignment 1.
-- `assignment2`: Contains the code and answers for Assignment 2.
+- `assignments`: Contains the code and answers for (i) Assignment 1
+                                                  (ii) Assignment 2
+                                                 (iii) Assignment 3
+                                                  (iv) Assignment 4
+                                                   (v) Assignment 5
 
 
 Feel free to explore each assignment for more details.
